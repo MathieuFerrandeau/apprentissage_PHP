@@ -8,8 +8,9 @@
     <h2>Cours 1 PHP</h2>
     <p>
       Une page contenant du HTML avec des balises PHP<br>
-      Nous allons effectuer des petits test.
+      Nous allons effectuer des petits test.<br>
       <?php /* Ceci est un commentaire PHP */?>
+      <?php echo "Bonjour !";?>
       Une liste ci-dessous:
 
     </p>
