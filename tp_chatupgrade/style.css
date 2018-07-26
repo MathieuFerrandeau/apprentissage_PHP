@@ -1,0 +1,18 @@
+.formulaire
+{
+	text-align: center;
+}
+.messages
+{
+	width:70%;
+    margin:auto;
+    border-bottom: 1px solid;
+}
+.msg
+{
+	margin-left: 20px;
+}
+.date
+{
+	font-size: 15px;
+}
